@@ -1,0 +1,4 @@
+192.168.31.182 abya.app
+192.168.31.182 cdn.abya.app
+192.168.31.182 api.abya.app
+192.168.31.182 uy.api.abya.app
